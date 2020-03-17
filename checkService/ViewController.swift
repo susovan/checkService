@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     var name :String?
     var username :String?
+    var emailId :String?
+    
     
     
     override func viewDidLoad() {
