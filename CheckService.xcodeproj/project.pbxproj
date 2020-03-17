@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		72175E552420C47900FE9CD2 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72175E542420C47900FE9CD2 /* ViewController2.swift */; };
 		72B068C223745ECC0086A94A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B068C123745ECC0086A94A /* AppDelegate.swift */; };
 		72B068C423745ECC0086A94A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B068C323745ECC0086A94A /* SceneDelegate.swift */; };
 		72B068C623745ECC0086A94A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72B068C523745ECC0086A94A /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		72175E542420C47900FE9CD2 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		72B068BE23745ECC0086A94A /* CheckService.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CheckService.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		72B068C123745ECC0086A94A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72B068C323745ECC0086A94A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				72B068C123745ECC0086A94A /* AppDelegate.swift */,
 				72B068C323745ECC0086A94A /* SceneDelegate.swift */,
 				72B068C523745ECC0086A94A /* ViewController.swift */,
+				72175E542420C47900FE9CD2 /* ViewController2.swift */,
 				72B068C723745ECC0086A94A /* Main.storyboard */,
 				72B068CD23745ECD0086A94A /* Assets.xcassets */,
 				72B068CF23745ECD0086A94A /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72175E552420C47900FE9CD2 /* ViewController2.swift in Sources */,
 				72B068CC23745ECC0086A94A /* CheckService.xcdatamodeld in Sources */,
 				72B068C623745ECC0086A94A /* ViewController.swift in Sources */,
 				72B068C223745ECC0086A94A /* AppDelegate.swift in Sources */,
