@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var name :String?
+    var username :String?
     
     
     override func viewDidLoad() {
